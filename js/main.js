@@ -1,5 +1,3 @@
-console.log("work");
-
 // LOOPS
 
 // first exercise
